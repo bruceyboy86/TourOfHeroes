@@ -1,5 +1,5 @@
 {
-  "name": "tour-of-heroes",
+  "name": "angular-nodejs-container",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -41,5 +41,7 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.0.2"
-  }
+  },
+  "keywords": [],
+  "description": "Linked to GitHub repo"
 }
